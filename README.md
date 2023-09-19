@@ -4,19 +4,19 @@ This is the starter project for iOS 101 Project 1 - Wordle Pt. 1
 
 # Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Henry**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle** is an app that recreates the claaasic word game 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [X] App displays a keyboard on the screen
+- [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [X] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
@@ -40,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Henry Ingraham
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
